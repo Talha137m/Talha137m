@@ -1,4 +1,10 @@
-### Hi there 👋
+###  👋 Hi there!i'am talha 
+- 🔭 I’m currently working on 
+flutter and navtive android app development
+- 💬 Ask me about 
+Email:muhammadtalha137m@gmail.com
+[linkedin](https://www.linkedin.com/in/muhammad-talha-%F0%9F%8E%80-9b93261ab)
+[twitter](https://twitter.com/talha137m?t=4RalrDu-ji-WSrHlX9L7Sg&s=08)
 
 <!--
 **Talha137m/Talha137m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
