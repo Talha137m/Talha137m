@@ -1,7 +1,7 @@
 ###  👋 Hi there!i'am talha 
 Glad to see you here!
 
-Software engineer,expert in flutter& dart and also navtive android development.Being a professional developer requires continuous learning and keeping up with the latest trends and technologies in the industry. 
+ꜱᴏꜰᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀ,ᴇxᴘᴇʀᴛ ɪɴ ꜰʟᴜᴛᴛᴇʀ& ᴅᴀʀᴛ ᴀɴᴅ ᴀʟꜱᴏ ɴᴀᴠᴛɪᴠᴇ ᴀɴᴅʀᴏɪᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.ʙᴇɪɴɢ ᴀ ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ᴅᴇᴠᴇʟᴏᴘᴇʀ ɪ ᴄᴏɴᴛɪɴᴜᴏᴜꜱ ʟᴇᴀʀɴɪɴɢ ᴀɴᴅ ᴋᴇᴇᴘɪɴɢ ᴜᴘ ᴡɪᴛʜ ᴛʜᴇ ʟᴀᴛᴇꜱᴛ ᴛʀᴇɴᴅꜱ ᴀɴᴅ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ ɪɴ ᴛʜᴇ ɪɴᴅᴜꜱᴛʀʏ.
 - 🔭 I’m currently working on:
 - flutter and navtive android app development
 - 💬 Ask me about
